@@ -13,3 +13,5 @@ ALX Shell, Basics Project
 5-listfilesdigitonly: Lists contents of current directory in long format, with user & groups IDs displayed numerically, including hidden files
 
 6-firstdirectory: Creates a directory named 'my_first_directory' in current directory
+
+7-movethatfile: Moves the file betty from /tmp/ to /tmp/my_first_directory
