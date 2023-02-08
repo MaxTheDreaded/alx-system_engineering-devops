@@ -23,3 +23,5 @@ ALX Shell, Basics Project
 10-back: Changes current working directory to previous one
 
 11-lists: Lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+
+12-file_type: Prints the type of the file named 'iamafile' in the /tmp directory
