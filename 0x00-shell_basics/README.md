@@ -11,3 +11,5 @@ ALX Shell, Basics Project
 4-listmorefiles: Lists contents of current directory, including hidden files
 
 5-listfilesdigitonly: Lists contents of current directory in long format, with user & groups IDs displayed numerically, including hidden files
+
+6-firstdirectory: Creates a directory named 'my_first_directory' in current directory
