@@ -14,4 +14,6 @@ ALX Shell, Basics Project
 
 6-firstdirectory: Creates a directory named 'my_first_directory' in current directory
 
-7-movethatfile: Moves the file betty from /tmp/ to /tmp/my_first_directory
+7-movethatfile: Moves the file 'betty' from /tmp/ to /tmp/my_first_directory
+
+8-fisrtdelete: Deletes the file 'betty' in /tmp/my_first_directory
