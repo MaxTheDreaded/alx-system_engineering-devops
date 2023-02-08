@@ -17,3 +17,5 @@ ALX Shell, Basics Project
 7-movethatfile: Moves the file 'betty' from /tmp/ to /tmp/my_first_directory
 
 8-fisrtdelete: Deletes the file 'betty' in /tmp/my_first_directory
+
+9-firstdirdeletion: Deletes the directory 'my_first_directory' in /tmp
