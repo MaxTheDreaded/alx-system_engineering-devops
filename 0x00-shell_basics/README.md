@@ -9,3 +9,5 @@ ALX Shell, Basics Project
 3-listfiles: Lists contents of current working directory in long format
 
 4-listmorefiles: Lists contents of current directory, including hidden files
+
+5-listfilesdigitonly: Lists contents of current directory in long format, with user & groups IDs displayed numerically, including hidden files
