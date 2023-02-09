@@ -19,3 +19,5 @@ ALX Shell Permissions
 8-James_Bond: Sets the permissions of hello to ------rwx
 
 9-John_Doe: Sets the mode os hello to -rwxr-x-wx
+
+10-mirror_permissions: Sets the mode of the file hello the same as olleh’s mode
