@@ -17,3 +17,5 @@ ALX Shell Permissions
 7-everybody: Adds execution permission to the owner, the group owner and the other users, to the file hello
 
 8-James_Bond: Sets the permissions of hello to ------rwx
+
+9-John_Doe: Sets the mode os hello to -rwxr-x-wx
