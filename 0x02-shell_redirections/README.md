@@ -7,3 +7,5 @@ ALX Shell Redirections
 2-hellofile: displays the content of the /etc/passwd file.
 
 3-twofiles: displays the content of the /etc/passwd and /etc/hosts files.
+
+4-lastlines: displays the last 10 lines of /etc/passwd.
