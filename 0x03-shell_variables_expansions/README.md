@@ -28,10 +28,10 @@ ALX Shell Variable Expansions
 
 13-print_float: script that prints a number with two decimal places
 
-14-decimal_to_hexadecimal: script that converts a number from base 10 to base 16
+100-decimal_to_hexadecimal: script that converts a number from base 10 to base 16
 
-100-rot13: script that encodes and decodes text using the rot13 encryption
+101-rot13: script that encodes and decodes text using the rot13 encryption
 
-101-odd: script that prints every other line from the input, starting with the first line
+102-odd: script that prints every other line from the input, starting with the first line
 
-102-water_and_stir: script that adds the two numbers stored in the environment variables
+103-water_and_stir: script that adds the two numbers stored in the environment variables
